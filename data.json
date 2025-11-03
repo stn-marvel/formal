@@ -1,20 +1,4 @@
 {
-  "templates": [
-    {
-      "id": "1762175103817",
-      "name": "Welcome",
-      "content": "Halo,  [info_5]",
-      "infos": [
-        {
-          "id": "info_5",
-          "name": "Nama",
-          "desc": "nama",
-          "type": "teks"
-        }
-      ],
-      "createdAt": "2025-11-03T13:05:03.817Z",
-      "updatedAt": "2025-11-03T13:05:03.818Z"
-    }
-  ],
+  "templates": [],
   "favorites": []
 }
