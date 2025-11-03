@@ -1,4 +1,44 @@
 {
-  "templates": [],
+  "templates": [
+    {
+      "id": "1762175871171",
+      "name": "Welcome",
+      "content": "Halo![info_1] ,\n\n\nJangan lupa untuk menghadiri *[info_2] *  ya!\n\nTempat: [info_3] \nTanggal: [info_4] \nWaktu: [info_5]",
+      "infos": [
+        {
+          "id": "info_1",
+          "name": "nama",
+          "desc": "-",
+          "type": "teks"
+        },
+        {
+          "id": "info_2",
+          "name": "Nama Kegiatan",
+          "desc": "Nama kegiatan yang akan dihadiri",
+          "type": "teks"
+        },
+        {
+          "id": "info_3",
+          "name": "Nama tempat",
+          "desc": "-",
+          "type": "teks"
+        },
+        {
+          "id": "info_4",
+          "name": "Tanggal",
+          "desc": "-",
+          "type": "tanggal"
+        },
+        {
+          "id": "info_5",
+          "name": "Waktu",
+          "desc": "Waktu yang haru",
+          "type": "teks"
+        }
+      ],
+      "createdAt": "2025-11-03T13:17:51.171Z",
+      "updatedAt": "2025-11-03T13:17:51.171Z"
+    }
+  ],
   "favorites": []
 }
